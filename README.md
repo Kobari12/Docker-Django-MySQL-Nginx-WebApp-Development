@@ -13,7 +13,7 @@
     ```
 
 3. クローンしたリポジトリ内に移動し、「.env」ファイル内の、データベースの接続に必要な情報などを、環境変数に設定します。
-
+ 
     ```console
     $ cd docker-django-mysql-nginx-dev.git
     $ vi .env
