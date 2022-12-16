@@ -9,13 +9,13 @@
 2. このリポジトリをクローンします。
 
     ```console
-    $ git clone https://github.com/Kobari12/docker_django_mysql_nginx.git
+    $ git clone https://github.com/Kobari12/docker-django-mysql-nginx-dev.git
     ```
 
 3. クローンしたリポジトリ内に移動し、「.env」ファイル内の、データベースの接続に必要な情報などを、環境変数に設定します。
 
     ```console
-    $ cd docker_django_mysql_nginx
+    $ cd docker-django-mysql-nginx-dev.git
     $ vi .env
 
     MYSQL_DATABASE=*****
