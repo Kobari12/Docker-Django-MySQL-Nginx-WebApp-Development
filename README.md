@@ -9,7 +9,7 @@
 2. このリポジトリをクローンします。
 
     ```console
-    $ git clone https://github.com/Kobari12/docker-django-mysql-nginx-dev.git
+    $ git clone https://github.com/kbryy/docker-django-mysql-nginx-dev.git
     ```
 
 3. クローンしたリポジトリ内に移動し、「.env」ファイル内の、データベースの接続に必要な情報などを、環境変数に設定します。
@@ -112,7 +112,7 @@ $ docker-compose exec app python manage.py createsuperuser
 
 
 ## 作者
-このリポジトリは、@Kobari12が作成しました。
+このリポジトリは、@kbryyが作成しました。
 
 Dockerを用いたWebアプリケーションの開発環境構築については、まだまだ勉強中です。そのため、このリポジトリには不備や誤りが含まれる可能性があります。そのような場合は、お手数ですがIssueやPull Requestをいただけると幸いです。
 
